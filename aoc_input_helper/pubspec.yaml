@@ -1,0 +1,8 @@
+name: aoc_input_helper
+publish_to: none
+
+environment:
+  sdk: '^3.2.0'
+
+dependencies:
+  http: ^1.1.2
