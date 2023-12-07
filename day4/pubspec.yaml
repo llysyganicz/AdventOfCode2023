@@ -1,0 +1,9 @@
+name: day4
+publish_to: none
+
+environment:
+  sdk: '^3.2.0'
+
+dependencies:
+  aoc_input_helper:
+    path: ../aoc_input_helper
